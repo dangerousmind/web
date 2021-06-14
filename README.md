@@ -9,11 +9,13 @@
 - 国家自然科学基金项目，基于参数和结构优化的置信规则库推理方法研究，负责人
 - 福建省自然科学基金项目，面向信息不完整的置信规则库推理方法研究，负责人
 - 福建省自然科学基金项目，基于证据推理的置信规则库优化算法及其在分类中的应用研究，负责人
+- 福建省教育厅A类科技项目，基于证据推理的置信规则库推理方法及其应用研究，负责人
+- 福建省教育厅A类科技项目，证据推理方法及其在可信软件评估中的应用研究，负责人
 - 工信部工业互联网平台重大项目下设课题，工业大数据算法基础理论与工程应用研究，第3成员
 - 国家自然科学基金项目，基于绩效评价的决策单元的合并理论与方法研究，第3成员
 - 国家自然科学基金项目，基于线性无偏估计面向任意树结构的差分隐私直方图发布，第4成员
 - 国家自然科学基金项目，基于灰色方法的社交网络群体识别问题研究，第4成员
-- 主要横向项目
+- **主要横向项目**
   - 医疗大数据分析挖掘技术服务
   - 基于气象大数据条件下的小水电发电出力分析研究
   - 智慧物流生态园相关软件技术服务
@@ -36,8 +38,8 @@
 -  Lin Y Q#, Fu Y G (傅仰耿), Su Q, Wang Y. M, Gong X T*. A Rule Activation Method for Extended Belief Rule Base with VP-tree and MVP-tree [J]. *Journal of Intelligent & Fuzzy Systems*, 2017,33(6):3695-3705.
 -  Yang L H, Wang Y M*, Lan Y X, Chen L, Fu Y G (傅仰耿). A data envelopment analysis (DEA)-based method for rule reduction in extended belief-rule-based systems [J]. *Knowledge-Based Systems*, 2017, 123: 174-187.
 -  Yang L H, Wang Y M*, Chang L L, Fu Y G(傅仰耿). A disjunctive belief rule-based expert system for bridge risk assessment with dynamic parameter optimization model [J]. *Computers & Industrial Engineering*, 2017, 113: 459-474.
--  Wang Y M, Yang L H, Fu Y G (傅仰耿*), Chang L L, Chin K S. Dynamic rule adjustment approach for optimizing belief rule-base expert system [J]. *Knowledge-Based Systems*, 2016, 96: 40-60.
--  Yang L H#, Wang Y M, Su Q, Fu Y G(傅仰耿*), Chin K S. Multi-attribute search framework for optimizing  extended belief rule-based systems [J]. *Information Sciences*, 2016, 370-371: 159-183.
+-  Wang Y M, Yang L H, Fu Y G* (傅仰耿), Chang L L, Chin K S. Dynamic rule adjustment approach for optimizing belief rule-base expert system [J]. *Knowledge-Based Systems*, 2016, 96: 40-60.
+-  Yang L H#, Wang Y M, Su Q, Fu Y G*(傅仰耿), Chin K S. Multi-attribute search framework for optimizing  extended belief rule-based systems [J]. *Information Sciences*, 2016, 370-371: 159-183.
 
 # 指导学科竞赛：
 
