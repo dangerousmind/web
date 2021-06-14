@@ -6,21 +6,20 @@
 
 # 主要科研项目：
 
-- 福建省自然科学基金项目，面向信息不完整的置信规则库推理方法研究，负责人
 - 国家自然科学基金项目，基于参数和结构优化的置信规则库推理方法研究，负责人
+- 福建省自然科学基金项目，面向信息不完整的置信规则库推理方法研究，负责人
 - 福建省自然科学基金项目，基于证据推理的置信规则库优化算法及其在分类中的应用研究，负责人
-- 福建省教育厅A类科技项目，基于证据推理的置信规则库推理方法及其应用研究，负责人
-- 福建省教育厅A类科技项目，证据推理方法及其在可信软件评估中的应用研究，负责人
-- 国家自然科学基金项目，基于绩效评价的决策单元的合并理论与方法研究，参与(第3)
-- 国家自然科学基金项目，基于线性无偏估计面向任意树结构的差分隐私直方图发布，参与(第4)
-- 国家自然科学基金项目，基于灰色方法的社交网络群体识别问题研究，参与(第4)
+- 工信部工业互联网平台重大项目下设课题，工业大数据算法基础理论与工程应用研究，参与
+- 国家自然科学基金项目，基于绩效评价的决策单元的合并理论与方法研究，参与
+- 国家自然科学基金项目，基于线性无偏估计面向任意树结构的差分隐私直方图发布，参与
+- 国家自然科学基金项目，基于灰色方法的社交网络群体识别问题研究，参与
 
 # 主要学术论文：
 
 #研究生，*通讯作者
 
 -  刘永裕,巩晓婷,方炜杰,傅仰耿*.数据缺失的扩展置信规则库推理方法[J/OL].计算机研究与发展:1-13[2021-02-25].http://kns.cnki.net/kcms/detail/11.1777.TP.20210225.1047.004.html.
--  Yang-Geng Fu(傅仰耿), Hong-Yun Huang, Yu Guan, Ying-Ming Wang, Wenxi Liu, Wei-Jie Fang. EBRB cascade classifier for imbalanced data via rule weight updating[J]. Knowledge-Based Systems, 2021, 223: 107010.
+-  Yang-Geng Fu(傅仰耿), Hong-Yun Huang, Yu Guan, Ying-Ming Wang, Wenxi Liu*, Wei-Jie Fang. EBRB cascade classifier for imbalanced data via rule weight updating[J]. Knowledge-Based Systems, 2021, 223: 107010.
 -  Nan-Nan Chen, Xiao-Ting Gong, Ying-Ming Wang, Chun-Yang Zhang, Yang-Geng Fu* (傅仰耿), Random clustering forest for extended belief rule-based system[J]. *Soft Computing*  (2021). https://doi.org/10.1007/s00500-020-05467-6
 -  Yang-Geng Fu(傅仰耿), Jin-Hui Zhuang, Yu-Peng Chen, Long-Kun Guo*,  Ying-Ming Wang, A framework for optimizing extended belief rule base systems with improved Ball trees [J], *Knowledge-Based Systems*, 2020, 210: 106484.
 -  W. Fang#, X. Gong, G. Liu, Y. Wu and Y. Fu* (傅仰耿), A Balance Adjusting Approach of Extended Belief-Rule-Based System for Imbalanced Classification Problem [J], *IEEE Access*, 2020, 8: 41201-41212. 
@@ -59,13 +58,10 @@
 
 - 2020年获福州大学第六届十佳青年教职工荣誉称号。
 - 2020年获福州大学青年五四奖章。
-- 2019年获福州大学首届曾亦容奖教金。
 - 2018年获福建省第九届高等教育教学成果奖特等奖(排名第2)。
-- 2018年获福州大学高等教育教学成果奖特等奖(排名第2)。
 - 2018年获福州大学学生创新创业活动优秀指导老师称号。
 - 2017年获SCIE期刊《Knowledge-Based Systems》的杰出评审贡献奖。
 - 2016年获福州大学暑期三下乡社会实践先进工作者。
 - 2014年获福州大学教学优秀奖一等奖。
 - 2014年获福建省第七届高等教育教学成果奖一等奖(排名第3)。
-- 2014年获福州大学首届厦航奖教金。
 - 2013年获福州大学高等教育教学成果奖特等奖(排名第3)。
