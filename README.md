@@ -81,8 +81,4 @@
 
 - 天道酬勤，与同学们共勉。
 
-- ☆☆☆推荐：[
-
-  [How to Study: A Brief Guide]: https://cse.buffalo.edu/~rapaport/howtostudy.html	"How to Study: A Brief Guide"
-
-  ]☆☆☆
+- ☆☆☆推荐：[How to Study: A Brief Guide]: https://cse.buffalo.edu/~rapaport/howtostudy.html	☆☆☆
