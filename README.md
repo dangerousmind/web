@@ -83,6 +83,6 @@
 
 - ☆☆☆推荐：[
 
-  [How to Study: A Brief Guide]: https://cse.buffalo.edu/~rapaport/howtostudy.html
+  [How to Study: A Brief Guide]: https://cse.buffalo.edu/~rapaport/howtostudy.html	"How to Study: A Brief Guide"
 
   ]☆☆☆
